@@ -1,0 +1,5 @@
+How to write a problem statement
+1. Describe how things should work.
+2. Explain the problem and state why it matters.
+3. Explain the aim of your study, and how it will solve the problem.
+4. State the significance of this solution
