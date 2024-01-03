@@ -1,0 +1,11 @@
+Biswajit Maity, Suraj Kumar Mallick, Somnath Rudra,
+Integration of urban expansion with hybrid road transport network development within Haldia Municipality, West Bengal,
+The Egyptian Journal of Remote Sensing and Space Science,
+Volume 24, Issue 3, Part 1,
+2021,
+Pages 471-483,
+ISSN 1110-9823,
+https://doi.org/10.1016/j.ejrs.2020.10.005.
+(https://www.sciencedirect.com/science/article/pii/S1110982320303355)
+Abstract: Rapidly growing cities in developing countries like India are facing some concerns such as unplanned and unsystematic urban growth. The port based industrial development plays a pivotal role for growth of urban expansion and transport development over once the agricultural dominant area in Haldia Municipality, West Bengal. This study emphasised on the relationship between urban expansion and transport development using various geospatial and statistical techniques. Land use/cover maps have been prepared in ArcGIS v.10.1 for 2001 and 2018 with the help of Landsat images then road network connectivity was analysed using statistical techniques and GIS environment. Kernel density was used for analysing hybrid road network density. Finally, correlation technique was applied to find out the spatial relationship between the exiting transportation and population. Based on the results, we found the value of coefficient of determination as 0.651 that means transportation development is rigidly controlled by population density. So, urban area was expanded day after day through the huge population pressure over the study area. Moreover, hybrid road transport networks were developed which are well connected to all the fringe areas from the city centre for providing better transport accessibility and facility. But, the planning of urban area through transportation is required to give more attention on proper allocation of others urban services especially for the city people.
+Keywords: Haldia Municipality; Connectivity hotspot map; Kernel density; Hybrid road network density; Transportation development
